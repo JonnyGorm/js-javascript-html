@@ -1,0 +1,9 @@
+console.log("Hi!");
+
+var mainTitle = document.querySelector("h1");
+console.log(mainTitle);
+mainTitle.innerText = "Yay, Javascript!!";
+
+var body = document.querySelector("body");
+console.log(body);
+body.backgroundColor = "#FEF2F1";
