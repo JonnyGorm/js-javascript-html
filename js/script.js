@@ -6,4 +6,4 @@ mainTitle.innerText = "Yay, Javascript!!";
 
 var body = document.querySelector("body");
 console.log(body);
-body.backgroundColor = "#FEF2F1";
+body.style.backgroundColor = "#FEF2F1";
